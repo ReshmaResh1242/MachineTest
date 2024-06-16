@@ -5,9 +5,9 @@ import {
     FlatList,
     StyleSheet,
     Text,
-    ScrollView
+    ScrollView,
+    ActivityIndicator
 } from 'react-native';
-import LoaderKit from 'react-native-loader-kit'
 
 // ------------ Imports ---------------
 import ListItem from '../Components/ListItem';
@@ -135,11 +135,7 @@ const MovieListScreen = ({ navigation }) => {
             </View>
             {loading
                 ? <View style={{ flex: 1, paddingHorizontal: 20, alignItems: 'center', marginTop: 20 }}>
-                    <LoaderKit
-                        style={{ width: 40, height: 40 }}
-                        name={'BallSpinFadeLoader'}
-                        color={COLOR?.primaryColor}
-                    />
+                    <ActivityIndicator size="large" color={COLOR?.primaryColor} />
                 </View>
                 : <View style={{ flex: 1, paddingHorizontal: 20 }}>
                     <Text style={styles.title}>{selected}</Text>
