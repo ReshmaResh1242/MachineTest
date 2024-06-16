@@ -10,8 +10,29 @@ Rapid Api - https://rapidapi.com
 
 The combination of these elements creates a user-friendly experience where individuals can easily discover, explore, and select movies based on their interests and preferences.
 
-Here, a FlatList is used to list the movies, and a ScrollView is used to display the filters.
+Here, a FlatList is used to list the movies, and a ScrollView is used to list the filters.
 
 For icons "react-native-vector-icons" is used. https://www.npmjs.com/package/react-native-vector-icons
 
 Redux state management is used to store the details of the selected movie and display them on the movie details screen.
+
+
+
+https://github.com/ReshmaResh1242/MachineTest/assets/94843114/9f4f018c-105e-4357-a6f3-9e94e4f1da31
+
+
+
+https://github.com/ReshmaResh1242/MachineTest/assets/94843114/6e968ee9-c391-45d1-9528-5f2b0385cb05
+
+
+
+https://github.com/ReshmaResh1242/MachineTest/assets/94843114/6951300f-f652-4700-a893-04575c1d83ce
+
+
+
+
+https://github.com/ReshmaResh1242/MachineTest/assets/94843114/b3739824-c8a3-49d2-a49f-c0816ccb3f47
+
+
+
+
