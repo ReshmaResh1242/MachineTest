@@ -4,23 +4,20 @@ Project Setup
 Setting up a React Native project involves several steps to ensure you have everything you need to start building mobile applications. Here’s a basic guide to get you started:
 
 Project Structure:
-App.js : The entry point of your application where you can start building your UI and logic.
-node_modules: Where all the dependencies are installed.
-package.json: Contains project metadata and dependencies.
-android and ios folders (in React Native CLI setup): Contain native code and build files for Android and iOS respectively.
+1.App.js : The entry point of your application where you can start building your UI and logic.
+2.node_modules: Where all the dependencies are installed.
+3.package.json: Contains project metadata and dependencies.
+4.android and ios folders (in React Native CLI setup): Contain native code and build files for Android and iOS respectively.
 
 Additional Setup:
-For android -
-1. `npm install`
+For android - `npm install`
 For ios -
 1. `cd ios`
 2. `pod install`
 
 Running Your Project:
-For android -
-`npx react-native run-android`
-For ios -
-`npx react-native run-ios`
+For android - `npx react-native run-android`
+For ios - `npx react-native run-ios`
 
 you can run your app on an emulator/simulator
 
