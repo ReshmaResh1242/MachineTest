@@ -41,7 +41,7 @@ The combination of these elements creates a user-friendly experience where indiv
 
 Here, a FlatList is used to list the movies, and a ScrollView is used to list the filters.
 
-For icons "react-native-vector-icons" is used. https://www.npmjs.com/package/react-native-vector-icons
+For icons `react-native-vector-icons` is used. https://www.npmjs.com/package/react-native-vector-icons
 
 Redux state management is used to store the details of the selected movie and display them on the movie details screen.
 
