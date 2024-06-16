@@ -25,6 +25,7 @@ Resources:
 React Native Documentation - https://reactnative.dev/docs/set-up-your-environment
 Community forums and tutorials (e.g., Stack Overflow, Medium articles) can provide additional guidance for specific tasks or issues.
 
+
 Project Details 
 
 The movie listing screen serves as the primary interface for users to browse available films. It incorporates essential features such as filtering options, search functionality, and the actual listing of movies. Here’s a breakdown of each component:
